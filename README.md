@@ -1,1 +1,1 @@
-# Hotel-Management-System-Python-Tkinter-Myd-Sql
+# Hotel-Management-System-Python-Tkinter-MySql
