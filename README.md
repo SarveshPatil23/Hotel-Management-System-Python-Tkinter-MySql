@@ -5,7 +5,7 @@ This project is an simple implementation of a hotel management system run by a r
 
 Execute all the database queries provided foremost.
 
-install piloow library when u create the folder
+install pillow library when u create the folder by typing following code in terminal
 pip install pillow
 
 Download all files as provided and open them in Apache Netbeans and execute 'Login.py'.
